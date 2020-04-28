@@ -1,0 +1,25 @@
+.cardSmallContainer {
+  display: flex;
+  flex-basis: auto;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-bottom: 50px;
+  position: relative;
+  padding-bottom: 30px;
+
+  &:after {
+    content: "";
+    background: -webkit-linear-gradient(
+      right,
+      transparent 0%,
+      #000 12%,
+      #000 88%,
+      transparent 100%
+    );
+    display: block;
+    height: 1px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+  }
+}
