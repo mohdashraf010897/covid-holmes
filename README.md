@@ -1,4 +1,4 @@
-# COVID-19 Tracker aka CVOID-HOLMES
+# COVID-19 Tracker aka COVID-HOLMES
 
 ### [Live Site](https://mak-covid-holmes-19.netlify.app/)
 
