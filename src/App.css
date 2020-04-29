@@ -11,7 +11,14 @@ body {
 
 .header-img {
   text-align: center;
+  margin: 0 auto;
   margin-bottom: 20px;
+  width: 40vw;
+}
+
+.header-img img {
+  width: 100%;
+  min-height: 250px;
 }
 
 .search-bar {
